@@ -19,17 +19,17 @@ const ContactState = props => {
         contacts: [
             {
                 id: 1,
-                name: 'Jill FuckYou',
-                email: 'jill@gofuckyourself.com',
+                name: 'Jill Johnson',
+                email: 'jill@gmail.com',
                 phone: '111-111-1111',
                 type: 'personal'
             },
             {
                 id: 2,
-                name: 'Jit',
-                email: 'jit@blrrt.com',
-                phone: '112-111-1111',
-                type: 'personal'
+                name: 'Gary Johnson',
+                email: 'gary@gmail.com',
+                phone: '222-222-2222',
+                type: 'professional'
             }
         ],
 
